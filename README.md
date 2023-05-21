@@ -1,5 +1,5 @@
 # Virtual-Personal-Assistant
-Artificial Intelligence Project -> Virtual Personal Assistant using Sapi5 and Python
+Artificial Intelligence Project -> Virtual Personal Assistant using Python
 
 
 Available Features :-
